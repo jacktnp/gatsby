@@ -1,5 +1,5 @@
 ---
-path: "/blog/blog2"
+path: "/blog/blog3"
 date: "2019-11-16"
 title: "My Third blog post "
 ---
