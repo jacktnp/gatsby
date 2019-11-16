@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `JACKTNP with Gatsby`,
+    title: `JACKTNP with Gatsby !`,
     description: `Good things can come from unexpected places.`,
     author: `@jacktnp`,
   },
