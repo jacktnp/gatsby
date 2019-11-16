@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import PostLink from "../components/post-link"
 import Layout from "../components/layout"
+import 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'
 
 const IndexPage = ({
   data: {
